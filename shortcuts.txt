@@ -1,0 +1,11 @@
+x - delete
+lshift + a - add
+n - object props
+w - selection type
+z - rendering modes
+	2 - material
+	4 - wireframe
+	6 - solid
+	8 - rendered
+s - scale
+	x, y, z - single axis
