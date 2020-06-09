@@ -3,6 +3,8 @@ t - left toolbar
 lshift + a - add
 lctrl + a - apply
 lctrl + l - make links
+lshift + tab - toggle snap to grid
+lctrl - inverse snap to grid
 n - object props
 w - selection type
 z - rendering modes
