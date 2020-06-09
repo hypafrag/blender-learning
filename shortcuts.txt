@@ -2,6 +2,7 @@ x - delete
 t - left toolbar
 lshift + a - add
 lctrl + a - apply
+lctrl + l - make links
 n - object props
 w - selection type
 z - rendering modes
