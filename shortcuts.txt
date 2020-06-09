@@ -1,5 +1,7 @@
 x - delete
+t - left toolbar
 lshift + a - add
+lctrl + a - apply
 n - object props
 w - selection type
 z - rendering modes
@@ -7,5 +9,11 @@ z - rendering modes
 	4 - wireframe
 	6 - solid
 	8 - rendered
+
+g - move
 s - scale
+
 	x, y, z - single axis
+	lshift + x, y, z - exclude axis
+
+		1, 2, 3 ... - transform transform value
