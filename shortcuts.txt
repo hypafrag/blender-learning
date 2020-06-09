@@ -17,3 +17,5 @@ s - scale
 	lshift + x, y, z - exclude axis
 
 		1, 2, 3 ... - transform transform value
+
+m - move to collection
