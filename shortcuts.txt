@@ -1,6 +1,7 @@
 x - delete
 t - left toolbar
 lshift + a - add
+lshift + s - cursor to selected
 lctrl + a - apply
 lctrl + l - make links
 lshift + tab - toggle snap to grid
