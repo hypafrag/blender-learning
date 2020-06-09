@@ -5,6 +5,7 @@ lctrl + a - apply
 lctrl + l - make links
 lshift + tab - toggle snap to grid
 lctrl - inverse snap to grid
+lcrtl + p - parent objects
 n - object props
 w - selection type
 z - rendering modes
