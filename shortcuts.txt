@@ -6,7 +6,8 @@ lctrl + a - apply
 lctrl + l - make links
 lshift + tab - toggle snap to grid
 lctrl - inverse snap to grid
-lcrtl + p - parent objects
+lctrl + p - parent objects
+lctrl + space - maximize area
 n - object props
 w - selection type
 z - rendering modes
