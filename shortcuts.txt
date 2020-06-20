@@ -1,5 +1,8 @@
+f3 - search menu
 x - delete
+f - fill
 t - left toolbar
+m - merge
 lshift + a - add
 lshift + s - cursor to selected
 lctrl + a - apply
@@ -25,3 +28,4 @@ s - scale
 		1, 2, 3 ... - transform transform value
 
 m - move to collection
+e - extrude
